@@ -22,12 +22,14 @@ function About() {
 
             <p>
               I enjoy solving technical problems, developing responsive
-              user interfaces and building reliable backend services.
+              user interfaces and building reliable backend services. I am 
+              particularly interested in creating practical, user-focused applications
+              and continuously improving my development skills.
             </p>
 
             <p>
               My experience includes working on dashboards, travel
-              management platforms, learning systems and full-stack
+              management platforms, learning systems and full-stack web
               applications.
             </p>
 
@@ -42,7 +44,7 @@ function About() {
 
             <div className="highlight-card">
               <h3>Full Stack</h3>
-              <p>Development Experience</p>
+              <p>Development Projects</p>
             </div>
 
             <div className="highlight-card">

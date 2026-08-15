@@ -1,25 +1,26 @@
 function Certifications() {
   const certifications = [
     {
-      name: "Java Introduction",
-      provider: "SoloLearn",
+      name: "Full Stack Web Development",
+      provider: "Tarento Technologies Pvt. Ltd.",
+      certificate: "/certificates/tarento.pdf",
     },
-    {
-      name: "Java Intermediate",
-      provider: "SoloLearn",
-    },
-    {
-      name: "Java Workshop",
-      provider: "Zetpeak",
-    },
-    {
-      name: "Life Skills (Jeevan Kaushal) 2.0",
-      provider: "Wadhwani",
-    },
-    {
+   {
       name: "Full Stack Web Development Bootcamp",
       provider: "Udemy",
+      certificate: "/certificates/full-stack-web-development-bootcamp.pdf",
     },
+    {
+      name: "Full Stack Web Development",
+      provider: "Varcons Technologies Pvt. Ltd.",
+      certificate: "/certificates/varcons.pdf",
+    },
+    {
+      name: "Introduction to Java",
+      provider: "SoloLearn",
+      certificate: "/certificates/sololearn.pdf",
+    },
+ 
   ];
 
   return (
@@ -46,9 +47,19 @@ function Certifications() {
                 ✓
               </div>
 
-              <div>
+              <div className="certificate-content">
                 <h3>{certification.name}</h3>
+
                 <p>{certification.provider}</p>
+
+                <a
+                  href={certification.certificate}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="view-certificate"
+                >
+                  View Certificate ↗
+                </a>
               </div>
 
             </div>

@@ -4,30 +4,75 @@ function Projects() {
       number: "01",
       title: "Live Data Entry Dashboard",
       description:
-        "A real-time employee performance dashboard for monitoring targets, completed tasks, pending work and shift-wise productivity.",
+        "A real-time employee performance dashboard for monitoring targets, completed tasks, pending work and shift-wise productivity and automated screenshot-based data processing using OCR.",
       technologies: [
         "React.js",
         "TypeScript",
         "Java",
         "Spring Boot",
+        "REST APIs",
         "PostgreSQL",
       ],
     },
 
     {
       number: "02",
-      title: "JKC Dashboard",
+      title: "Pot Store Management ",
       description:
-        "A dashboard Proof of Concept with optimized React components and Spring Boot API endpoints, achieving a 20% improvement in dashboard load time.",
+        "A product and inventory management application that allows users to view available products and stock levels. The website includes an admin dashboard for managing products, with options to add, edit, and delete product records.",
       technologies: [
         "React.js",
+        "Java",
         "Spring Boot",
+        "REST APIs",
         "MySQL",
       ],
     },
 
     {
       number: "03",
+      title: "Gates",
+      description:
+        "A course-based online learning system with registration, educational content, dashboards and reporting functionality.",
+      technologies: [
+        "React.js",
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "MySQL",
+      ],
+    },
+
+    {
+      number: "04",
+      title: "eTravelMate",
+      description:
+        "A travel management platform featuring responsive UI, frontend development, backend integration, and travel-related workflows.",
+      technologies: [
+        "React.js",
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "MySQL",
+      ],
+    },
+
+    {
+      number: "05",
+      title: "JKC Dashboard",
+      description:
+        "A dashboard Proof of Concept focused on optimizing React components and Spring Boot API endpoints to improve application performance and responsiveness.",
+      technologies: [
+        "React.js",
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "MySQL",
+      ],
+    },
+
+    {
+      number: "06",
       title: "Secure User Verification System",
       description:
         "A role-based web application with Admin, Student and Teacher access, secure authentication and student data management.",
@@ -39,40 +84,16 @@ function Projects() {
       ],
     },
 
-    {
-      number: "04",
-      title: "eTravelMate",
-      description:
-        "A travel management platform where I worked on frontend development, backend integration and responsive UI improvements.",
-      technologies: [
-        "React.js",
-        "Java",
-        "Spring Boot",
-        "MySQL",
-      ],
-    },
+
 
     {
-      number: "05",
-      title: "Gates",
-      description:
-        "A course-based online learning system with registration, educational content, dashboards and reporting functionality.",
-      technologies: [
-        "React.js",
-        "Java",
-        "Spring Boot",
-        "MySQL",
-      ],
-    },
-
-    {
-      number: "06",
+      number: "07",
       title: "Adventure Travel Website",
       description:
         "A responsive website showcasing adventure travel destinations, outdoor activities and safety guidelines.",
       technologies: [
-        "HTML",
-        "CSS",
+        "HTML5",
+        "CSS3",
         "JavaScript",
       ],
     },

@@ -22,11 +22,11 @@ function Experience() {
       company: "Tarento Technologies Pvt. Ltd.",
       location: "Bangalore, India",
       description:
-        "Worked on full-stack applications including the JKC Dashboard, eTravelMate and Gates.",
+        "Contributed to the full-stack applications including JKC Dashboard, eTravelMate and Gates.",
       achievements: [
         "Developed a Proof of Concept for the JKC Dashboard.",
         "Improved dashboard load time by 20% by optimizing React components and Spring Boot API endpoints.",
-        "Integrated RESTful services for communication between the frontend and backend database.",
+        "Integrated RESTful services for communication between the frontend and backend systems.",
         "Resolved UI issues and improved dashboard responsiveness across applications.",
       ],
       technologies:

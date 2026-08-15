@@ -23,8 +23,6 @@ function Skills() {
         "Spring MVC",
         "Spring Data JPA",
         "Hibernate",
-        "Node.js",
-        "Express.js",
         "REST APIs",
       ],
     },
@@ -39,16 +37,30 @@ function Skills() {
     },
 
     {
-      title: "Tools & Security",
+      title: "Development Tools",
       skills: [
         "Git",
         "GitHub",
         "Bitbucket",
         "Postman",
         "Swagger",
+      ],
+    },
+
+    {
+      title: "Security",
+      skills: [
         "JWT",
         "OAuth 2.0",
         "Spring Security",
+      ],
+    },
+
+    {
+      title: "Backend Technologies",
+      skills: [
+        "Node.js",
+        "Express.js",
       ],
     },
   ];

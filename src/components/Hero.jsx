@@ -17,8 +17,8 @@ function Hero() {
         </h2>
 
         <p className="hero-description">
-          I build scalable and responsive web applications
-          using React.js, Java, Spring Boot and SQL databases.
+          I develop full-stack web applications using React.js, Java, Spring Boot, REST APIs, and SQL,
+          turning ideas into reliable, responsive, and user-friendly applications.
         </p>
 
         <div className="hero-buttons">
@@ -45,6 +45,7 @@ function Hero() {
           <span>React.js</span>
           <span>Java</span>
           <span>Spring Boot</span>
+          <span>REST APIs</span>
           <span>PostgreSQL</span>
 
         </div>

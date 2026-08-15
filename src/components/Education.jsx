@@ -1,25 +1,25 @@
 function Education() {
   const education = [
     {
-      degree: "Bachelor of Engineering",
+      degree: "Bachelor of Engineering (B.E.)",
       institution: "Cambridge Institute of Technology (VTU)",
       period: "2021 – 2025",
-      result: "CGPA: 8.67",
-      specialization: "Information Science Engineering",
+      result: "CGPA: 8.67 / 10",
+      specialization: "Information Science & Engineering",
     },
     {
-      degree: "Pre-University College",
+      degree: "Pre-University Course (PUC)",
       institution: "Prarthana Science PU College, Bagalkot",
       period: "2019 – 2021",
       result: "Percentage: 82.16%",
-      specialization: "Science",
+      specialization: "PCMCs",
     },
     {
       degree: "SSLC",
       institution: "St Anne's Convent High School, Bagalkot",
       period: "2018 – 2019",
       result: "Percentage: 77.28%",
-      specialization: "Secondary Education",
+      specialization: "General",
     },
   ];
 
