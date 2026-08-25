@@ -15,7 +15,7 @@ function Education() {
       specialization: "PCMCs",
     },
     {
-      degree: "SSLCertificate",
+      degree: "SSLC",
       institution: "St Anne's Convent High School, Bagalkot",
       period: "2018 – 2019",
       result: "Percentage: 77.28%",
